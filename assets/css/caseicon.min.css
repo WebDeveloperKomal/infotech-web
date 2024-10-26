@@ -55,11 +55,11 @@
     content: "\f107"
 }
 
-.caseicon-calendar-alt:before {
+.fa-solid fa-calendar-days-alt:before {
     content: "\f108"
 }
 
-.caseicon-calendar:before {
+.fa-solid fa-calendar-days:before {
     content: "\f109"
 }
 
