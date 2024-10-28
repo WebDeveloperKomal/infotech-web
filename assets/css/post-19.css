@@ -39,15 +39,6 @@
     padding: 0px 48px 0px 48px;
 }
 
-.elementor-19 .elementor-element.elementor-element-d753ea7:not(.elementor-motion-effects-element-type-background),
-.elementor-19 .elementor-element.elementor-element-d753ea7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #000000;
-    background-image: url("/assets/Image/footer/bg-footer1.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .elementor-19 .elementor-element.elementor-element-d753ea7 {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 0px;

@@ -1,11 +1,3 @@
-.elementor-41 .elementor-element.elementor-element-7f2cff6:not(.elementor-motion-effects-element-type-background),
-.elementor-41 .elementor-element.elementor-element-7f2cff6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("/assets/Image/Home/bg-section-contact.jpg");
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .elementor-41 .elementor-element.elementor-element-7f2cff6 {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 65px 0px 70px 0px;
